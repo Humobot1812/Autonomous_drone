@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Nidar Survey Polygon</name>
+
+    <Placemark>
+      <name>Survey Area</name>
+      <Style>
+        <LineStyle>
+          <color>ff0000ff</color> <!-- Red border -->
+          <width>3</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>7d00ff00</color> <!-- Semi-transparent green fill -->
+        </PolyStyle>
+      </Style>
+
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              23.176836566172756, 80.02160565682279,0
+              23.176313828268103, 80.02159761019634,0
+              23.17635574600556, 80.02218769613616,0
+              23.176814374510755, 80.02214209858626,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+
+    </Placemark>
+  </Document>
+</kml>
