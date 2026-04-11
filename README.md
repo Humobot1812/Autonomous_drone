@@ -165,6 +165,13 @@ These demonstrate:
 
 ---
 
+---
+📺 YouTube playlist:
+👉 https://youtube.com/playlist?list=PLQcgql__dXrco9mI7xbGSEP1FIZtFDI6o&si=sUMdqm7IwxunV-0C
+
+
+---
+
 ## 🧩 Future Improvements
 
 * 🔄 Multi-drone swarm coordination
@@ -172,17 +179,6 @@ These demonstrate:
 * 📡 Real-time ground station integration
 * 🗺️ Advanced path planning (ROS 2 + Nav stack)
 * 🎯 Precision landing using vision
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repo
-2. Create a new branch
-3. Commit your changes
-4. Open a Pull Request
 
 ---
 
